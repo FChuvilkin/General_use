@@ -1,6 +1,6 @@
-## Git commands
+# Git commands
 
-# General command line comands
+## General command line comands
 
 dir 
 
@@ -10,31 +10,31 @@ cd ..
 
 clear
 
-# Git commands general
+## Git commands general
 
 git status
 
 git log // press q to exit the cmd
 
-# Git committing
+## Git committing
 
 git add <file>
 
 git commit -m "Put your message here
 
-# Git pishing / pulling
+## Git pishing / pulling
 
 git push origin master
 
 git pull origin master
 
-# Git deleting uncommitted changes
+## Git deleting uncommitted changes
 
 git checkout -- <File>
 
 git checkout -- <File> // checkout all
 
-# Git reverting changes / resetting
+## Git reverting changes / resetting
 
 git revert <commit id>
 
